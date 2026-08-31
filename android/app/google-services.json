@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409024656971",
+    "project_id": "farmerhub-f180a",
+    "storage_bucket": "farmerhub-f180a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409024656971:android:2bfbff8e58e38d45883fce",
+        "android_client_info": {
+          "package_name": "com.example.farmer_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo_dZzuexyecoE56BwAKgJw8k73J6pSrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
