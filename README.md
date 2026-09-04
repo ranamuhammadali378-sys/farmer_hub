@@ -88,29 +88,45 @@ lib/
 │   └── product_service.dart
 │
 └── main.dart
-
+```
 
 ---
 
 ## 📸 Screenshots
 
 ### 🏠 Home
+
 ![FarmerHub Home](screenshots/01_home.png)
 
 ### 🌾 Categories
+
 ![FarmerHub Categories](screenshots/02_home_categories.png)
 
 ### 🔐 Login & Registration
+
 ![FarmerHub Login and Registration](screenshots/03_login_register.png)
 
 ### 🛍️ Products
+
 ![FarmerHub Products](screenshots/04_products.png)
 
 ### 👨‍💼 Admin Product Management
+
 ![FarmerHub Admin Products](screenshots/05_admin_products.png)
 
 ### 📦 Order Management
+
 ![FarmerHub Orders](screenshots/06_orders.png)
 
 ### 🌱 Why Choose FarmerHub
+
 ![Why Choose FarmerHub](screenshots/07_why_choose.png)
+
+---
+
+## 📌 Project Status
+
+FarmerHub v1.0.0
+
+The project is developed as a Flutter and Firebase agricultural marketplace
+with customer and admin functionality.
